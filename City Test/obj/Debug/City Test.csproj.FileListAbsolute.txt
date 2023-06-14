@@ -1,0 +1,60 @@
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\obj\Debug\City Test.csproj.AssemblyReference.cache
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\obj\Debug\City_Test.City_test.resources
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\obj\Debug\City_Test.Properties.Resources.resources
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\obj\Debug\City Test.csproj.GenerateResource.cache
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\obj\Debug\City Test.csproj.CoreCompileInputs.cache
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\City Test.exe.config
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\City Test.exe
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\City Test.pdb
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\obj\Debug\City Test.exe
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\obj\Debug\City Test.pdb
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\obj\Debug\City Test.csproj.CopyComplete
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\System.Buffers.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\System.Memory.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\System.Buffers.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\System.Memory.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\EntityFramework.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\EntityFramework.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Demo\City Test\City Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\obj\Debug\City Test.csproj.AssemblyReference.cache
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\obj\Debug\City_Test.Properties.Resources.resources
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\obj\Debug\City Test.csproj.GenerateResource.cache
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\obj\Debug\City Test.csproj.CoreCompileInputs.cache
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\obj\Debug\City Test.exe
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\obj\Debug\City Test.pdb
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\City Test.exe.config
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\City Test.exe
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\City Test.pdb
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\EntityFramework.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\System.Buffers.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\System.Data.SQLite.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\System.Memory.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\EntityFramework.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\System.Buffers.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\System.Data.SQLite.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\System.Memory.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\obj\Debug\City Test.csproj.CopyComplete
+C:\Users\wsr_arc05\Desktop\Abrosimov Test Demo\City Test\City Test\obj\Debug\City_Test.CityTest.resources
